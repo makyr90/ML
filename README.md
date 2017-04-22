@@ -1,4 +1,4 @@
-### Implement a neural network using python numpy
+### Implement a neural network(1 hidden-layer) using python numpy
 #### Mnist dataset is used for trainning
 The above activation functions can be used:
 
